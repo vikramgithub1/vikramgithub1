@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/vikramziox" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://twitter.com/vikramziox" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/vikramsingh20/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/vikramsingh20/" /></a> </p>
 
 - 🔭 I’m currently working on **Mini Project in java**
 
