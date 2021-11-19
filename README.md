@@ -9,7 +9,9 @@
 
 - 🔭 I’m currently working on **Mini Project in java**
 
-- 🌱 I’m currently learning **React Framework**
+- 🌱 I’m currently learning **Data Structure & Algorithm**
+
+- 👯 I’m looking to collaborate on **OpenSource Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vikramgithub1](https://github.com/vikramgithub1)
 
@@ -33,7 +35,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vikramsingh20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikramsingh20/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12039736/vikram-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12039736/vikram-singh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/vikramziox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/vikramziox" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/vikramziox/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vikramziox/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/vikramziox/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vikramziox/" height="30" width="40" /></a> 
 <a href="https://www.hackerearth.com/https://www.hackerearth.com/@vikramziox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@vikramziox" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/vikramgfg20/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vikramgfg20/profile" height="30" width="40" /></a>
 </p>
