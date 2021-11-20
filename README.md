@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vikram Singh</h1>
+<h1 align="center">Hi 😀, I'm Vikram Singh</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikramgithub1&label=Profile%20views&color=0e75b6&style=flat" alt="vikramgithub1" /> </p>
@@ -6,6 +6,10 @@
 
 
 <p align="left"> <a href="https://www.linkedin.com/in/vikramsingh20/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/vikramsingh20/" /></a> </p>
+
+
+
+
 
 - 🔭 I’m currently working on **Mini Project in java**
 
