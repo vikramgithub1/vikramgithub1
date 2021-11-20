@@ -1,7 +1,7 @@
 <h1 align="center">Hi 😀, I'm Vikram Singh</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-![3323619](https://user-images.githubusercontent.com/57651175/142717213-deb0022a-92f7-4ba3-b21a-5865f8a70387.jpg)
+https://storyset.com/illustration/programmer/amico/animate?share=32968
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikramgithub1&label=Profile%20views&color=0e75b6&style=flat" alt="vikramgithub1" /> </p>
