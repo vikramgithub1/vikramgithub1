@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😀, I'm Vikram Singh</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate MERN Full Stack Web Developer from India</h3>
 
 
 
